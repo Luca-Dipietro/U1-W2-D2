@@ -255,3 +255,6 @@ let Es15 = "Esercizio 15";
 console.log(Es15);
 array[9] = 100;
 console.log(array);
+
+//Per gli esercizi dall'11 al 15, essendo che si va a modificare l'oggetto e l'array in questione,
+// si possono commentare di volta in volta gli esercizi prima e dopo, giusto per verificare la corretta soluzione degli esercizi
