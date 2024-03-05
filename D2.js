@@ -253,7 +253,7 @@ console.log(array);
 
 let Es15 = "Esercizio 15";
 console.log(Es15);
-array[9] = 100;
+array[array.length - 1] = 100;
 console.log(array);
 
 //Per gli esercizi dall'11 al 15, essendo che si va a modificare l'oggetto e l'array in questione,
